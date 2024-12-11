@@ -1,8 +1,8 @@
-pip install easyocr
+
 import streamlit as st
 from PIL import Image
 import os
-import easyocr
+
 import pickle
 import difflib
 from datetime import datetime
